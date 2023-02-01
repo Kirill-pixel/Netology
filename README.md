@@ -27,7 +27,7 @@
 
 `При необходимости прикрепитe сюда скриншоты
 <img src = "images.png" width = 100%>
-![images.png](https://github.com/Kirill-pixel/Netology/main/images.png)`
+![images.png](https://github.com/Kirill-pixel/Netology/main)`
 
 Эти задания дополнительные (не обязательные к выполнению) и никак не повлияют на получение вами зачета по этому домашнему заданию. Вы можете их выпо>
 
