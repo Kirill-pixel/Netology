@@ -26,7 +26,7 @@
 `на котором будет видно загрузку процессора`
 
 `При необходимости прикрепитe сюда скриншоты
-![images.png](https://github.com/Kirill-pixel/Netology.git/images.png)`
+![images.png](https://github.com/Kirill-pixel/Netology/images.png)`
 
 Эти задания дополнительные (не обязательные к выполнению) и никак не повлияют на получение вами зачета по этому домашнему заданию. Вы можете их выпо>
 
@@ -35,4 +35,4 @@
 `С помощью Yandex Monitoring сделайте 2 алерта на загрузку процессора: WARN и ALARM. Создайте уведомление по e-mail.`
 
 `При необходимости прикрепитe сюда скриншоты
-![images1.png](https://github.com/Kirill-pixel/Netology.git/images1.png)`
+![images1.png](https://github.com/Kirill-pixel/Netology/images1.png)`
