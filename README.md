@@ -25,9 +25,8 @@
 `Создайте виртуальную машину в Yandex Cloud Compute Cloud и с помощью Yandex Monitoring создайте дашборд,`
 `на котором будет видно загрузку процессора`
 
-`При необходимости прикрепитe сюда скриншоты
-<img src = "main/images.png" width = 100%>
-![alt text]](https://github.com/Kirill-pixel/Netology/blob/main/images.png)`
+`При необходимости прикрепитe сюда скриншоты`
+![Скриншот-1](https://github.com/Kirill-pixel/Netology/blob/main/images.png)
 
 Эти задания дополнительные (не обязательные к выполнению) и никак не повлияют на получение вами зачета по этому домашнему заданию. Вы можете их выпо>
 
@@ -35,5 +34,5 @@
 
 `С помощью Yandex Monitoring сделайте 2 алерта на загрузку процессора: WARN и ALARM. Создайте уведомление по e-mail.`
 
-`При необходимости прикрепитe сюда скриншоты
-![alt text](https://github.com/Kirill-pixel/Netology/blob/main/images1.png)`
+`При необходимости прикрепитe сюда скриншоты`
+![Скриншот-2](https://github.com/Kirill-pixel/Netology/blob/main/images1.png)
